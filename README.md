@@ -1,4 +1,3 @@
-# Slot-demo[à¸ªà¸³à¹_à¸_à¸²1.html](https://github.com/user-attachments/files/22934502/a.a.a._a._a.1.html)
 <!DOCTYPE html>
 <html lang="th">
 <head>
